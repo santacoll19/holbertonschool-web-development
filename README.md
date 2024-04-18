@@ -1,1 +1,3 @@
-HTML, the backbone of the web, is where it all begins. In this journey, I have the pleasure delve into the core principles of HTML, learning how to structure content, create links, embed media, and more. By the end of this project, I'll have the knowledge and confidence to craft my own stunning webpages, laying the foundation for my future endeavors in the vast realm of web development. Let's embark on this exhilarating journey together and unlock the endless possibilities of HTML!
+HTML, the backbone of the web, is where it all begins. In this journey, I have the pleasure delve into the core principles of HTML, learning how to structure content, create links, embed media, and more. By the end of this project, I'll have the knowledge and confidence to craft my own stunning webpages, laying the foundation for my future endeavors in the vast realm of web development.
+
+Let's embark on this exhilarating journey together and unlock the endless possibilities of HTML!
